@@ -3,4 +3,5 @@ thisdict = {
   "model": "Mustang",
   "year": 1964
 }
-print(thisdict)
+mydict = thisdict.copy()
+print(mydict)
